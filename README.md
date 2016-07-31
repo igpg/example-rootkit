@@ -1,4 +1,4 @@
-Simple Rootkit
+Example Rootkit
 =====================
 
 <img src="trust.gif"></img>
